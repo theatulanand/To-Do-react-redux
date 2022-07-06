@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "b4557422-ba9e-47c9-aaad-9e8b9a6e38c4",
+      "title": "Code",
+      "status": false
+    },
+    {
+      "id": "8b915b77-ec43-4eb0-87bc-91b723774e22",
+      "title": "Eat",
+      "status": false
+    },
+    {
+      "id": "ea9f46a9-0f28-4902-b740-90050c757b10",
+      "title": "Sleep",
+      "status": false
+    }
+  ]
+}
